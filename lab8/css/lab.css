@@ -1,28 +1,32 @@
 h1{
-   color: green;
+   color: C1CFC3;
    font-size: 300%;
+   text-align: center;
 }
 H2{
-  color: green;
+  color: C1CFC3;
   font-size: 200%;
+  text-align: center;
 }
 H3{
-  color: green;
+  color: C1CFC3;
   font-size: 200%;
+  text-align: center;
 }
 
 p{
    font-family: "comic sans";
-   text-indent: 35px;
+   text-indent: 20px;
    margin-left: 20px;
+   text-align: center;
 }
 
 #content {
-   background-color: #BFBFBF;
+   background-color: black ;
    width: 5000px;
    min-height: 3000px;
    padding: 10px;
-   border: 9px dotted;
+   margin: solid 1px #444444;
    font-size: 20px;
 
 }
